@@ -51,3 +51,5 @@ Converts every `.svg` in `./svgs` to `./stl/name.stl` at 3 mm. The Meshy convert
 ## When to use Supavoxel instead
 
 Everything in this repo, and every converter it mentions, produces a flat extrusion: the outline of the SVG pushed up into a slab. That is the right output for stencils, badges and lettering. When the input is a photograph, a product render or a character drawing and you want a model with real depth, extrusion cannot get there. [Try Supavoxel - image to 3D, STL/GLB in the browser, no CAD](https://supavoxel.com?utm_source=github&utm_medium=ugc&utm_campaign=svg-to-stl-examples&utm_content=readme-top&utm_term=tier-r): upload the picture, download the mesh, and slice it like any STL these scripts produce.
+
+_Last reviewed: 2026-09-22_
